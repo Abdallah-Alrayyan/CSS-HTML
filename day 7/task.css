@@ -1,0 +1,85 @@
+body,html{
+    margin: 0;
+    padding: 0;
+    
+  
+}
+@font-face {
+    font-family: h1;
+    src: url(/PostNoBillsColombo-ExtraBold.ttf);
+}
+
+
+.headar{
+
+    background-color: #35736E;
+    
+}
+
+
+.navbar{
+ 
+    display: flex;
+    flex-direction: column;
+    color: white;
+ 
+}
+.nav{
+    display: flex;
+    flex-direction: row;
+    margin: 0px 30px;
+    
+    
+}
+.logo {
+margin-right: 30px;
+font-family: h1;
+font-size: xx-large;
+color: #FFD748;
+
+}
+nav p{
+    margin: 0 30px;
+}
+.nav:nth-child(3){
+    margin-left: 500%;
+}
+.tab{
+    margin-left: 800px
+}
+.navs{
+    margin-right:25px;
+    font-weight: 500;
+    font-size: x-large;
+    
+}
+
+
+.navimg{
+    width: 35px;
+    height: 35px;
+    margin: 0;
+    margin-top:20px ;
+}
+ 
+.main{
+    display: flex;
+    flex-direction: row;
+}
+.mains{
+    width: 700px;
+}
+.mainimg{
+    width:5px;
+}
+.mainimg1{
+width: 500px;
+margin: 0;
+margin-left: 200px;
+position: absolute;
+left: 200px;
+}
+
+.mainimg2{
+
+}
